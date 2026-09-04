@@ -1,0 +1,36 @@
+Role,ID,Name,Gender,Faculty,Course
+Staff,E001,Henry Cavill,Male,FAFB,
+Student,S001,Lisa Kudrow,Female,FAFB,Diploma in Accounting
+Student,S002,Alia Bhatt,Female,FOAS,Bachelor in Bioscience
+Staff,E002,Tom Cruise,Male,FOCS,
+Staff,E003,Zac Efron,Male,FAFB,
+Student,S003,Vijay Deverakonda,Male,FOET,Diploma of Electronic Engineering
+Student,S004,Virat Kohli,Male,FOET,Bachelor of Electrical and Electronics Engineering
+Staff,E004,Roger Federer,Male,FCCI,
+Staff,E005,Robert Downey Jr,Male,FAFB,
+Student,S005,Priyanka Chopra,Female,FOCS,Bachelor of Software Engineering
+Student,S006,Natalie Portman,Female,FAFB,Bachelor of Business Administration
+Student,S007,Akshay Kumar,Male,FOBE,Diploma in Quantity Surveying
+Student,S008,Margot Robbie,Female,FOCS,Diploma in Information Technology
+Student,S009,Alexandra Daddario,Female,FOAS,Diploma in Food Science
+Student,S010,Jessica Alba,Female,FOET,Diploma in Manufacturing Technology
+Student,S011,Hugh Jackman,Male,FOAS,Diploma in Food Science
+Student,S012,Hrithik Roshan,Male,FOET,Bachelor of Mechanical Engineering
+Staff,E006,Ellen Degeneres,Female,FAFB,
+Student,S013,Dwayne Johnson,Male,FOBE,Bachelor of Science in Architecture
+Student,S014,Elizabeth Olsen,Female,FOBE,Bachelor of Real Estate Management
+Staff,E007,Courtney Cox,Female,FOET,
+Student,S015,Claire Holt,Female,FAFB,Bachelor of Finance & Investment
+Student,S016,Charlize Theron,Female,FOET,Bachelor of Mechatronics Engineering
+Staff,E008,Camila Cabello,Female,FOET,
+Staff,E009,Brad Pitt,Male,FCCI,
+Student,S017,Billie Eilish,Female,FOAS,Diploma in Sports and Exercise Science
+Student,S018,Anushka Sharma,Female,FOCS,Bachelor in Data Science
+Student,S019,Andy Samberg,Male,FOET,Bachelor of Mechanical Engineering
+Staff,E010,Amitabh Bachchan,Male,FOAS,
+Student,S020,Kashyap,Male,FCCI,Bachelor of Creative Multimedia
+Student,S021,Andrea Ng,Female,FOCS,Bachelor in Data Science
+Student,S022,Gladys Lee,Female,FOCS,Bachelor in Data Science
+Student,S023,Kyra Aerin Leong,Female,FOCS,Bachelor in Data Science
+Student,S024,Liew Yong Xin,Female,FOCS,Bachelor in Data Science
+Student,S025,Yap Kah Ying,Female,FOCS,Bachelor in Data Science
